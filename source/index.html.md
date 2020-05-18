@@ -800,7 +800,7 @@ Get the consent dialog fields that are to be shown to the user before authentica
 mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.
 
 You can manage your mod.io account and opt out any time via the mod.io website.",
-  "html": "<p>We use <a href="https://mod.io.dev.internal">mod.io</a> to support user-generated content in-game. To continue you must agree to the mod.io <a href="https://mod.io.dev.internal/terms">Terms of Use</a> and <a href="https://mod.io.dev.internal/privacy">Privacy Policy</a>.</p>.mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.</p><p>You can manage your mod.io account and opt out any time via the <a href="https://mod.io.dev.internal">mod.io</a> website.</p>",
+  "html": "<p>We use <a href="https://mod.io">mod.io</a> to support user-generated content in-game. To continue you must agree to the mod.io <a href="https://mod.io/terms">Terms of Use</a> and <a href="https://mod.io/privacy">Privacy Policy</a>.</p>.mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.</p><p>You can manage your mod.io account and opt out any time via the <a href="https://mod.io">mod.io</a> website.</p>",
   "buttons": {
     "agree": {
       "text": "I Agree"
@@ -10284,7 +10284,7 @@ content|string|Contents of the comment.
 mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.
 
 You can manage your mod.io account and opt out any time via the mod.io website.",
-  "html": "<p>We use <a href="https://mod.io.dev.internal">mod.io</a> to support user-generated content in-game. To continue you must agree to the mod.io <a href="https://mod.io.dev.internal/terms">Terms of Use</a> and <a href="https://mod.io.dev.internal/privacy">Privacy Policy</a>.</p>.mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.</p><p>You can manage your mod.io account and opt out any time via the <a href="https://mod.io.dev.internal">mod.io</a> website.</p>",
+  "html": "<p>We use <a href="https://mod.io">mod.io</a> to support user-generated content in-game. To continue you must agree to the mod.io <a href="https://mod.io/terms">Terms of Use</a> and <a href="https://mod.io/privacy">Privacy Policy</a>.</p>.mod.io will create an account using your Steam user ID, display name and avatar so that you can browse, share and interact with user-generated content. You agree that content you create, your display name and avatar may be publicly accessible.</p><p>You can manage your mod.io account and opt out any time via the <a href="https://mod.io">mod.io</a> website.</p>",
   "buttons": {
     "agree": {
       "text": "I Agree"
